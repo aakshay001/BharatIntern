@@ -1,2 +1,2 @@
-# BharatIntern
-This repository contains the Data Science projects completed during BharatIntern Internship Program.
+# BharatIntern 👨‍💻 
+This repository contains the Data Science projects completed during the BharatIntern Internship Program.
